@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Transparent Diving Helmets" path="Mods/Transparent Diving Helmets/filelist.xml" corepackage="false" gameversion="0.15.13.0" steamworkshopid="2670466527" installtime="1638409372">
+  <None file="Mods/Transparent Diving Helmets/transparenthelmets.png" />
+  <Item file="Mods/Transparent Diving Helmets/slipsuit.xml" />
+  <Item file="Mods/Transparent Diving Helmets/pucs.xml" />
+  <Item file="Mods/Transparent Diving Helmets/divingsuits.xml" />
+</contentpackage>
