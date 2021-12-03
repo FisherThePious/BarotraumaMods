@@ -1,4 +1,4 @@
-# ⚓ Barotrauma Mods ⚓
+# ⚓ Barotrauma Mods
 Repository for the modifications and additions I've developed for Barotrauma; a side-scrolling role-playing video game developed by Finnish studio Undertow Games and published by Daedalic Entertainment.
 
 ## Table of Modifications:
