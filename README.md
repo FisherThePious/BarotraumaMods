@@ -9,7 +9,7 @@ Repository for the modifications and additions I've developed for Barotrauma; a 
 
 
 
-## Transparent Diving Helmets:
+## 🤿 Transparent Diving Helmets:
 This mod adds transparency to the glass visors of the diving suits available as of the *"Among the Ancients"* update.
 
 **Features:**
