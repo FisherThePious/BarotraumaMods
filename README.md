@@ -5,7 +5,7 @@ Repository for the modifications and additions I've developed for Barotrauma; a 
 
 | Modification               | Workshop Link                                                      | Number of Users |
 | ---------------------------| ------------------------------------------------------------------ |-----------------|
-| Transparent Diving Helmets | [Click Here](https://steamcommunity.com/sharedfiles/filedetails/?id=2670466527)| 605 |
+| Transparent Diving Helmets | [Click Here](https://steamcommunity.com/sharedfiles/filedetails/?id=2670466527)| 682 |
 
 
 
