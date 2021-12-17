@@ -3,9 +3,9 @@ Repository for the modifications and additions I've developed for Barotrauma; a 
 
 ## Table of Modifications:
 
-| Modification               | Workshop Link                                                      | Number of Users |
-| ---------------------------| ------------------------------------------------------------------ |-----------------|
-| Transparent Diving Helmets | [Click Here](https://steamcommunity.com/sharedfiles/filedetails/?id=2670466527)| 758 |
+| Modification               | Workshop Link                                                      | Number of Users | Rating |
+| ---------------------------| ------------------------------------------------------------------ |-----------------|--------|
+| Transparent Diving Helmets | [Click Here](https://steamcommunity.com/sharedfiles/filedetails/?id=2670466527)| 758 |⭐⭐⭐⭐⭐
 
 
 
